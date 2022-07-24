@@ -1,0 +1,18 @@
+{
+    "editor.fontFamily": "Cascade Mono",
+    "editor.fontSize": 18,
+    "editor.tabSize": 4,
+    "editor.occurrencesHighlight": false,
+    "editor.selectionHighlight": false,
+    "editor.matchBrackets": "never",
+    "editor.minimap.enabled": false,
+    "workbench.sideBar.location": "right",
+    "debug.console.fontFamily": "Cascade Mono",
+    "debug.console.fontSize": 18,
+    "terminal.integrated.fontFamily": "Cascade Mono",
+    "terminal.integrated.fontSize": 18,
+    "workbench.startupEditor": "none",
+    "files.autoSave": "afterDelay",
+    "files.autoSaveDelay": 1000,
+    "editor.linkedEditing": true,
+}
